@@ -1,15 +1,6 @@
-#!/home/don/python/bin/python3
-# by Don Bales
-# on 2025-12-22
+#!/home/don/mypy/bin/python3
 
-#from datetime import datetime
-#from email.message import EmailMessage
 import os
-#from pathlib import Path
-#import RPi.GPIO as GPIO
-#import subprocess
-#import smtplib
-
 import sys
 import time
 
